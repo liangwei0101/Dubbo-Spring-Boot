@@ -49,7 +49,7 @@ Dubbo是阿里巴巴公司开源的一个高性能优秀的服务框架，使得
 
 ## **四、运行项目**
 
-首先启动服务提供者，在启动服务调用者，打开谷歌浏览器，输入[http://localhost:9091/sayHello/HelloWorld](http://localhost:9091/sayHello/HelloWorld)
+首先启动服务提供者，在启动服务调用者，打开谷歌浏览器，输入[http://localhost:9091/sayHello/HelloWorld](https://github.com/liangwei0101/BolgCodeAndFile/blob/master/source/_posts/VueAndSpringBoot/dubbo.png)
 
 ![Dubbo浏览器显示结果](http://wx4.sinaimg.cn/large/cf495cdcgy1fss496cbz4j20hu0apdfv.jpg)
 

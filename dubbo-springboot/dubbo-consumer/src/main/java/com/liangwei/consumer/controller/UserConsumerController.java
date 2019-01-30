@@ -12,7 +12,7 @@ import java.util.List;
 @RequestMapping("/api")
 public class UserConsumerController {
 
-    @Reference(version = "${demo.service.version}")
+    @Reference
     private UserService userService;
 
     @RequestMapping(value ="/user", method = RequestMethod.GET)

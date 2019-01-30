@@ -8,7 +8,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 
 import java.util.List;
 
-@Service(version = "${demo.service.version}")
+@Service
 public class UserServiceImpl implements UserService {
 
     @Autowired
